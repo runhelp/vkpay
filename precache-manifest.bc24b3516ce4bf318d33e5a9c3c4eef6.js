@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/vkpay/static/css/2.0d804938.chunk.css"
   },
   {
-    "revision": "26aeee2fbd9bf17954d9d9fff90ebb05",
+    "revision": "019b967da84df029db93a9ce1412b03d",
     "url": "/vkpay/index.html"
   }
 ];
