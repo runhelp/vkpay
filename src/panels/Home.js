@@ -15,10 +15,10 @@ const Home = ({ id, go, fetchedUser }) => (
 			</ListItem>
 		</Group>}
 
-		<Group title="Navigation Example">
+		<Group title="Пример приложения навигации">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
-					Show me the Persik, please
+					Пожалуйста покажите мне Персика
 				</Button>
 			</Div>
 		</Group>
