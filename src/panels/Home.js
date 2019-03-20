@@ -15,7 +15,7 @@ const Home = ({ id, go, fetchedUser }) => (
 			</ListItem>
 		</Group>}
 
-		<Group title="Пример приложения навигации">
+		<Group title="Приложение в разработке, дождитесь пока мы работаем">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
 					Пожалуйста покажите мне Персика
