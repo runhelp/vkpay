@@ -15,7 +15,7 @@ const Home = ({ id, go, fetchedUser }) => (
 			</ListItem>
 		</Group>}
 
-		<Group title="Пользовательская навигация">
+		<Group title="Авторизация">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
 					Покажите пожалуйста Персика
