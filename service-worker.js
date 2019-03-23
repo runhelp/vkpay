@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/runhelp/vkpay/precache-manifest.0c21ce71f87881feedb1c20c680b79f0.js"
+  "/vkpay/precache-manifest.5f4bd6543b66c16db5a84fdbdebcbc8a.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/runhelp/vkpay/index.html", {
+workbox.routing.registerNavigationRoute("/vkpay/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
