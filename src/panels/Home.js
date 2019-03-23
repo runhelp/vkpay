@@ -7,7 +7,8 @@ const Home = ({ id, go, fetchedUser }) => (
 		<PanelHeader>Антивирусное ПО компании G Data</PanelHeader>
 	</Panel>
 
-	"items": [
+	"items":
+	[
     {
         "id": 250409,
         "owner_id": -124527492,
