@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://runhelp.github.io/vkpay/",
+  "homepage": "https://https://github.com/runhelp/vkpay/",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
     "build": "react-scripts build",
@@ -17,7 +17,7 @@
     "cross-env": "^5.2.0",
     "gh-pages": "^2.0.1",
     "react-hot-loader": "^4.7.1",
-    "react-scripts": "^2.1.8"
+    "react-scripts": "^2.1.5"
   },
   "dependencies": {
     "@vkontakte/icons": "^1.4.3",

@@ -15,11 +15,7 @@ const Home = ({ id, go, fetchedUser }) => (
 			</ListItem>
 		</Group>}
 
-<<<<<<< HEAD
 		<Group title="Navigation Example">
-=======
-		<Group title="Приложение в разработке, дождитесь пока мы работаем">
->>>>>>> parent of 14900d0... Update Home.js
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
 					Show me the Persik, please
