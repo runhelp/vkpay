@@ -2,11 +2,10 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import { Panel, PanelHeader, Copyrights } from '@vkontakte/vkui';
 
-const Home = ({ id, go, fetchedUser }) => (
+const Home = ({ id, go, fetchedUser, items }) => (
 	<Panel id={id}>
 		<PanelHeader>Антивирусное ПО компании G Data</PanelHeader>
 	</Panel>
-
 	"items":
 	[
     {
