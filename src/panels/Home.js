@@ -4,7 +4,7 @@ import { Panel, ListItem, Button, Group, Div, Avatar, PanelHeader } from '@vkont
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
-		<PanelHeader>Пример</PanelHeader>
+		<PanelHeader>G Data немецкий антивирус</PanelHeader>
 		{fetchedUser &&
 		<Group title="Для входа будет использован профиль:">
 			<ListItem
