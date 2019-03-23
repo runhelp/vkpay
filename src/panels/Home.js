@@ -4,7 +4,7 @@ import { Panel, PanelHeader, Copyrights } from '@vkontakte/vkui';
 
 const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
-		<PanelHeader>Антивирусное ПО компании G Data</PanelHeader>
+		<PanelHeader>Антивирусное ПО компании G </PanelHeader>
 		{fetchedUser &&
 		<Group title="Пользователькие данные">
 			<ListItem
@@ -15,7 +15,7 @@ const Home = ({ id, go, fetchedUser }) => (
 			</ListItem>
 		</Group>}
 
-		<Group title="Приложение в разработке, дождитесь пока мы работаем!">
+		<Group title="Приложение в разработке, дождитесь пока мы работаем">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
 					Пожалуйста покажите мне Персика
