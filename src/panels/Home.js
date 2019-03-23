@@ -6,7 +6,7 @@ const Home = ({ id, go, fetchedUser }) => (
 	<Panel id={id}>
 		<PanelHeader>G Data немецкий антивирус</PanelHeader>
 		{fetchedUser &&
-		<Group title="Для входа будет использован профиль:">
+		<Group title="Для входа будет использован профиль вашего пользователя:">
 			<ListItem
 				before={fetchedUser.photo_200 ? <Avatar src={fetchedUser.photo_200}/> : null}
 				description={fetchedUser.city && fetchedUser.city.title ? fetchedUser.city.title : ''}
