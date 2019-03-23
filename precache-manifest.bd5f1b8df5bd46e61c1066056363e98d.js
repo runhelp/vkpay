@@ -8,15 +8,15 @@ self.__precacheManifest = [
     "url": "/vkpay/static/js/runtime~main.fdc51e50.js"
   },
   {
-    "revision": "d3604be99add8e948c16",
-    "url": "/vkpay/static/js/main.d3604be9.chunk.js"
+    "revision": "61bb43ff92be0950d285",
+    "url": "/vkpay/static/js/main.61bb43ff.chunk.js"
   },
   {
     "revision": "48e4160ed52a8ac4cf96",
     "url": "/vkpay/static/js/2.48e4160e.chunk.js"
   },
   {
-    "revision": "d3604be99add8e948c16",
+    "revision": "61bb43ff92be0950d285",
     "url": "/vkpay/static/css/main.740b4f5b.chunk.css"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/vkpay/static/css/2.0d804938.chunk.css"
   },
   {
-    "revision": "6cf34bd5c57e10bdfa0079d96e856c70",
+    "revision": "e2e5096ba746cfcca08226cdb1f1c3af",
     "url": "/vkpay/index.html"
   }
 ];
