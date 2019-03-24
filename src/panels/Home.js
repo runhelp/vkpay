@@ -18,7 +18,7 @@ const Home = ({ id, go, fetchedUser }) => (
 		<Group title="Авторизация пользователя">
 			<Div>
 				<Button size="xl" level="2" onClick={go} data-to="persik">
-					Покажите пожалуйста Персика
+					Купить антивирусы G Data
 				</Button>
 			</Div>
 		</Group>
