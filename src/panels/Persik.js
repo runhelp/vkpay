@@ -15,9 +15,9 @@ const Persik = props => (
 				{osname === IOS ? <Icon28ChevronBack/> : <Icon24Back/>}
 			</HeaderButton>}
 		>
-			Персик
+			Антивирусы G Data от группы компаний Бегущая Помощь
 		</PanelHeader>
-		<img className="Persik" src={persik} alt="Persik The Cat"/>
+		<url: https://github.com/runhelp/ecomerce-app>
 	</Panel>
 );
 
